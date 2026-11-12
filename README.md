@@ -204,4 +204,4 @@ This repository serves as the official landing page for SQL Server. The software
 **Get the most recent version of SQL Server today!**
 
 ---
-**Last updated:** 2026-11-12 03:29:00 UTC
+**Last updated:** 2026-11-12 11:58:14 UTC
